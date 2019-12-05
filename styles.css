@@ -1,0 +1,9 @@
+body {
+	background-image: url("splash.png");
+	background-position: center center;
+	background-origin: content-box;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: #1d1f23;
+	background-attachment: fixed;
+}
