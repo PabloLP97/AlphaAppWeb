@@ -17,3 +17,8 @@ body {
 .imagenGPlay{
 	max-width: 300px;
 }
+
+footer{
+	color: white;
+	background-color: #1d1f23;
+}
