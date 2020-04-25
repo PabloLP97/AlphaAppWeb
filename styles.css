@@ -18,7 +18,13 @@ body {
 	max-width: 300px;
 }
 
+.imagenAppStore{
+	width: 255px;
+	margin: 20px;
+}
+
 footer{
 	color: white;
 	background-color: #1d1f23;
+	line-height: 1.5;
 }
