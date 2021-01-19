@@ -23,6 +23,13 @@ body {
 	margin: 20px;
 }
 
+.imagenWebApp{
+	width: 230px;
+	margin: 20px;
+	border: 2px solid #a6a6a6;
+	border-radius: 0.5rem;
+}
+
 footer{
 	color: white;
 	background-color: #1d1f23;
